@@ -1,0 +1,12 @@
+torch
+torchvision
+einops
+torchsummary
+tqdm
+numpy
+matplotlib
+Pillow
+jupyter 
+librosa
+h5py
+torchaudio

@@ -1,3 +1,1 @@
-Proof-of-concept song transition optimizer. 
-
-Clipped up songs from fma_small; applied UMAP to reduce a select feature set of clips; used a heuristic TSP solver (elkai library) to create an "optimal playlist", i.e. a shortest path along the feature space. 
+Proof-of-concept song transition optimizer. Clipped up songs from fma_small; applied UMAP to reduce a select feature set of clips; used a heuristic TSP solver (elkai library) to create an "optimal playlist", i.e. a shortest path along the feature space. 
